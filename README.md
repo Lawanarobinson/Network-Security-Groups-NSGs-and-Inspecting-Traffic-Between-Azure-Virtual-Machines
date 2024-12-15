@@ -30,7 +30,7 @@ This tutorial covers testing the IP address on a local machine, checking the IP 
 
    In this video I will demonstrate how to check your IP address on your own computer as well as on a Virtual Machine. You wiil create n Proton VPN account on your personal computer, then logon on the Virtual Machine and download Proton VPN. While that is loading you can go to "WhatIsMyIPAddress" from within the Virtual Machine and take note of it. Once Proton is downloaded, open the file and Install it. Click on the download according to our Virtual Machine and "create VPN location". Refresh "WhatIsMyIPAddress" and watch IP location change. Then close everything out and go Azure Portal and delete the resource group containing the VM in Azure to avoid unnecessary charges.
 
-   *Click the image or [here](https://www.youtube.com/watch?v=YFNkjJf3lo8) to watch a video demo.*
+   *Click the image or [here](https://www.youtube.com/watch?v=Rq3iiZJ1eVs) to watch a video demo.*
 
 
 <h2>Actions and Observations</h2>
